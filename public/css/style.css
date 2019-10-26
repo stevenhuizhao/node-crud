@@ -24,4 +24,6 @@ body  {
   font-size: 12px;
   background: #222;
   color: #999;
+  position: fixed;
+  bottom: 0;
 }
